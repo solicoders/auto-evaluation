@@ -41,25 +41,11 @@
 ## Projet de validation
 **SoliCode Évaluation :** Une plateforme complète pour le suivi et l'évaluation des étudiants en développement web
 ### Description
-Le projet de validation consiste à développer une application web pour le suivi et l'évaluation des étudiants en développement web. L'application permettra aux enseignants de créer des questionnaires à choix multiples (QCM) et d'évaluer les projets et les sessions de codage en direct des étudiants. Les étudiants pourront accéder à leurs devoirs, QCM et évaluations de projets depuis n'importe quel appareil et recevoir un feedback détaillé et encourageant de leurs enseignants directement sur la plateforme.
+1. **Objectif du Projet:**
+   Développer une application web pour le suivi et l'évaluation des étudiants en développement web, permettant aux enseignants de créer des QCM et d'évaluer les projets des étudiants.
 
-SoliCode Évaluation est une application web moderne conçue pour faciliter la vie des enseignants et améliorer l'évaluation des étudiants au sein du centre de formation SoliCode. 
-
-#### Pour les enseignants:
-
-- **Création simplifiée de QCM:**  Créez des questionnaires à choix multiples (QCM) en quelques clics avec une interface intuitive et claire. Choisissez parmi une variété de formats de questions et personnalisez la difficulté et la pondération de chaque question.
-- **Évaluation complète des compétences:** Allez au-delà des QCM ! SoliCode Évaluation vous permet d'intégrer des évaluations de projets spécifiques et de sessions de codage en direct. Ajoutez des critères d'évaluation personnalisés et attribuez des notes détaillées sur les performances globales et individuelles des étudiants.
-- **Suivi des progrès en temps réel:** Visualisez l'évolution des étudiants dans le temps grâce à des tableaux de bord clairs et personnalisables. Suivez les scores aux QCM, les évaluations de projets et de codage en direct, et identifiez rapidement les domaines où les étudiants excellent ou ont besoin de soutien supplémentaire.
-- **Feedback constructif et personnalisé:** Fournissez un feedback détaillé et encourageant aux étudiants directement sur la plateforme. Ajoutez des commentaires individuels sur les QCM, les projets et les sessions de codage en direct pour aider les étudiants à comprendre leurs points forts et faibles et à s'améliorer.
-
-#### Pour les étudiants:
-
-- **Accès simple et intuitif:** Accédez facilement à vos devoirs, QCM et évaluations de projets depuis n'importe quel appareil. Visualisez vos résultats et vos progrès en temps réel et identifiez vos points forts et vos axes d'amélioration.
-- **Feedback constructif et motivant:** Recevez un feedback détaillé et encourageant de vos enseignants directement sur la plateforme. Comprenez vos erreurs et améliorez vos compétences grâce aux commentaires personnalisés.
-- **Suivi de l'évolution personnelle:** Suivez vos propres progrès au fil du temps et analysez vos performances aux QCM, aux projets et aux sessions de codage en direct.
-- **Environnement d'apprentissage interactif:** Participez à des sessions de codage en direct et recevez des évaluations immédiates de vos performances. Tirez profit d'un environnement d'apprentissage interactif et stimulant.
-
-
+2. **Caractéristiques de SoliCode Évaluation:**
+   SoliCode Évaluation simplifie la création de QCM, offre une évaluation complète des compétences, et fournit un suivi en temps réel des progrès des étudiants avec un feedback détaillé.
 
 
 ### Avancement
@@ -71,9 +57,9 @@ SoliCode Évaluation est une application web moderne conçue pour faciliter la v
 6. Déploiement
 
 ## Projet de formation
-
+**CNMH**
 ### Description
-Le développement d'un projet de digitalisation de documents pour le Centre National Mohammed VI des Handicapés (CNMH) est un processus complexe qui nécessite une compréhension approfondie de son contexte. Nous allons d'abord discuter du cahier des charges, qui explique les raisons pour lesquelles le projet est nécessaire ainsi que les parties prenantes clés impliquées dans le projet. Ensuite, nous allons nous pencher sur les objectifs de formation qui définissent les compétences à valider pour l'équipe de projet CodeCampers.
+Le projet de digitalisation de documents pour le Centre National Mohammed VI des Handicapés (CNMH) nécessite une compréhension approfondie du contexte et implique des parties prenantes clés. Les objectifs de formation définissent les compétences à valider pour l'équipe de projet CodeCampers.
 
 ### Avancement
 
