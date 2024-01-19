@@ -7,7 +7,7 @@
 
 ## Livrable 
 
-- docs/nom-prénom.md
+- docs/nom-prénom/auto-évaluation-janvier.md
 
 ## Plan du rapport 
 
