@@ -1,3 +1,8 @@
+---
+layout: chapter
+title: Auto-évaluation
+order: 1
+---
 # Auto-évaluation : Hussein Bouik
 
 ## Arbre de compétences
