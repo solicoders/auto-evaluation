@@ -76,7 +76,9 @@ réalisation d'un projet permettant aux utilisateurs de créer et gérer des pr�
 ## Projet de formation
 ### Description
 
-La réalisation d'une application web pour `le Centre National Mohammed VI des Handicapés` (`CNMH`) vise à améliorer la qualité de vie des personnes en situation de handicap au Maroc. Cette application se compose de quatre pôles distincts : le pôle social, le pôle médical, le pôle sportif et le pôle éducatif.
+Le développement du projet de numérisation des documents pour le Centre National Mohammed VI des Handicapés (CNMH) exige une compréhension approfondie de son contexte complexe. Nous débuterons en examinant le cahier des charges, mettant en lumière les raisons justifiant le projet et identifiant les parties prenantes clés. Ensuite, nous aborderons les objectifs de formation, déterminant les compétences à valider pour l'équipe de projet Solicoders.
+
+
 
 
 ### Avancement
