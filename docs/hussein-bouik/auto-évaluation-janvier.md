@@ -21,7 +21,6 @@
 - C4. Collaborer à la gestion d’un projet informatique et à l’organisation de l’environnement de développement - perfectionnement : Transposer
 - C5. Développer une application mobile native, avec Android et React Native : Pas encore
 - C6. Préparer et exécuter les plans de tests d’une application : Imiter
-[[reference]](#competence-2)
 - C7. Préparer et exécuter le déploiement d’une application web et mobile - perfectionnement : Imiter
 [[reference]](https://github.com/labs-web/lab-deploy-laravel/tree/Feature/deploy-lab-laravel-basic(hussein))
 
