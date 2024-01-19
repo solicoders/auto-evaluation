@@ -19,7 +19,7 @@ order : 1
 - C7. Préparer et exécuter le déploiement d’une application web et mobile - perfectionnement
 
 ### Mon niveau de compétences
-<!-- TODO : Mon niveau (Imiter,Adapter,Transposer) à chaque compétences -->
+
 - C1: Tranposer
 - C2: Tranposer
 - C3: Adapter
@@ -29,8 +29,6 @@ order : 1
 - C7: Pas En cours
 
 ## Les phases de réalisation d'un projet
-
-<!-- Donnez une description de chaque phase dnas un seul phrase -->
 
 1. Besoin :
    1. carte de Empathie
@@ -51,28 +49,24 @@ order : 1
    2. Déploiement dons le serveur
 
 ## Projet de validation
+
 ### Description
-<!-- TODO : Donnez une description de votre projet de validation en trois phrase -->
+
 Réalisation d'une application en ligne d'inscriptions dans le centre SOLICODE. où les candidats rempliront un formulaire avec leurs informations personnelles et passeront un test, puis seront appelés à passer un entretien pour la deuxième étape de sélection des candidats
 
 ### Avancement
-<!-- 1. Donnez Les phases en cours et terminés en ordre -->
+
 1. Besoin: **En cours**
-2. Analyse: 
-3. Conception
-4. Codage
-5. Test
-6. Déploiement
+
 
 ## Projet de formation
 
 ### Description
-<!-- TODO : Donnez une description de de projet CNMH en trois phrase -->
+
 Réalisation d'une application de digitalisation des documents pour le Centre National Mohammed VI des Handicapés (CNMH) vise à résoudre les défis liés à la gestion papier traditionnelle des patients. Ce projet complexe nécessite une compréhension approfondie du contexte, du cahier des charges, et des objectifs de formation pour l'équipe SOLICODERS.
 
 ### Avancement
 
-<!-- Donnez l'état de chaque phase de développement de chaque sprint -->
 #### Sprint 1 : Service Social
 
 - Terminée
@@ -83,8 +77,8 @@ Réalisation d'une application de digitalisation des documents pour le Centre Na
 
 #### Sprint 3 : Autorisation
 
-- Terminée
+- En cours
 
 #### Sprint 4 : Consultation
 
-- En cours
+- à faire
