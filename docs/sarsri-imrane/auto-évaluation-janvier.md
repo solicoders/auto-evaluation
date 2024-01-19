@@ -13,9 +13,7 @@ C4. Collaborer à la gestion d’un projet informatique et à l’organisation d
 C5. Développer une application mobile native, avec Android et React Native						
 C6. Préparer et exécuter les plans de tests d’une application						
 C7. Préparer et exécuter le déploiement d’une application web et mobile - perfectionnement						
-<!-- TODO : Donnez la liste des compétences -->
 ### Mon niveau de compétences
-<!-- TODO : Mon niveau (Imiter,Adapter,Transposer) à chaque compétences -->
 - C1 : Adapter  
 [lab laravel crud basic](https://github.com/imranesarsri/lab-laravel-basic.git)
 - C2 : Adapter
@@ -28,9 +26,6 @@ C7. Préparer et exécuter le déploiement d’une application web et mobile - p
 - C7 : Imiter
 - [Lab Laravel crud basic](solicoders.infinityfreeapp.com)
 ## Les phases de réalisation d'un projet 
-
-<!-- Donnez une description de chaque phase dnas un seul phrase -->
-
 1. Besoin
    1. carte de Empathie
    2. Définir le problème
@@ -47,13 +42,12 @@ C7. Préparer et exécuter le déploiement d’une application web et mobile - p
     - test unitaire
 6. Déploiement 
     - Déploiement locale 
-    - Déploiement dons le serveur 
-
+    - Déploiement dans le serveur 
 
 ## Projet de validation
 ### Description
 Dans le projet LMS, pour ma part, je travaillerai sur l'insertion professionnelle. Les formateurs auront la possibilité d'ajouter leurs CV et informations, et l'administration aura accès aux informations des stagiaires, afin que ces derniers puissent bénéficier de ces informations. afin de communiquer avec eux.
-<!-- TODO : Donnez une description de votre projet de validation en trois phrase -->
+
 ### Avancement
 1. Besoin: en cours
 2. Analyse: Pas encore
@@ -61,22 +55,17 @@ Dans le projet LMS, pour ma part, je travaillerai sur l'insertion professionnell
 4. Codage: Pas encore
 5. Test: Pas encore
 6. Déploiement : Pas encore
-<!-- 1. Donnez Les phases en cours et terminés en ordre -->
 
 ## Projet de formation
 ### Description
-Le développement d'une application web pour le Centre National Mohammed VI des Handicapés (CNMH) a pour objectif d'accroître le bien-être des personnes en situation de handicap au Maroc. Cette application est structurée en quatre secteurs distincts : social, médical, sportif et éducatif.<!-- TODO : Donnez une description de de projet CNMH en trois phrase -->
+Le développement d'une application web pour le Centre National Mohammed VI des Handicapés (CNMH) a pour objectif d'accroître le bien-être des personnes en situation de handicap au Maroc. Cette application est structurée en quatre secteurs distincts : social, médical, sportif et éducatif.
 
 ### Avancement
-1. Besoin: en cours
-2. Analyse: en cours
-3. Conception: en cours
-4. Codage: en cours
-5. Test: Pas encore
-6. Déploiement : Pas encore
-<!-- Donnez l'état de chaque phase de développement de chaque sprint -->
-
-#### Sprint 1 : terminer
-#### Sprint 2 : terminer
-#### Sprint 3 avec la maintenance des sprints 1 et 2 : terminer  
-#### Sprint 4 : Consultation : à faire
+#### Sprint 1 : Service Social
+- terminer
+#### Sprint 2 : Service Médical
+- terminer
+#### Sprint 3 : Autorisation
+- en cours
+#### Sprint 4 : Consultation
+- à faire
