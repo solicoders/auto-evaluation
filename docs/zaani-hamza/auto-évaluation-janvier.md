@@ -6,7 +6,7 @@ order : 1
 
 ## Arbre de compétences
 ### liste des compétences
-<!-- TODO : Donnez la liste des compétences -->
+
 - C1. Maquetter une application mobile
 - C2. Manipuler une base de données - perfectionnement
 - C3. Développer la partie back-end d’une application web ou web mobile - perfectionnement
@@ -16,7 +16,7 @@ order : 1
 - C7. Préparer et exécuter le déploiement d’une application web et mobile - perfectionnement		
 
 ### Mon niveau de compétences
-<!-- TODO : Mon niveau (Imiter,Adapter,Transposer) à chaque compétences -->
+
 - C1 : Imiter
 - C2 : Imiter
 - C3 : Adapter
@@ -27,7 +27,7 @@ order : 1
   
 ## Les phases de réalisation d'un projet 
 
-<!-- Donnez une description de chaque phase dnas un seul phrase -->
+
 
 1. Besoin
      - Empathie     
@@ -49,12 +49,12 @@ order : 1
 
 ## Projet de validation
 ### Description
-<!-- TODO : Donnez une description de votre projet de validation en trois phrase -->
+
 Création d'une application pour gérer les autoévaluations des apprennent de centre solicode. 
 au but de  faciliter le suivi d'avancement des apprennent.
 
 ### Avancement
-<!-- 1. Donnez Les phases en cours et terminés en ordre -->
+
 1. Besoin: *en cours*
 
 
