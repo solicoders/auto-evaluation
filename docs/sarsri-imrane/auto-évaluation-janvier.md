@@ -1,3 +1,7 @@
+---
+layout: chapitre
+order: 1
+---
 # Auto-évaluation : Imrane sarsri
 
 ## Arbre de compétences
@@ -35,32 +39,44 @@ C7. Préparer et exécuter le déploiement d’une application web et mobile - p
    1. Diagramme de cas d'utilisation
    2. Diagramme de scénarios
 3. Conception
-   1. Analyse technique
-   2. Diagramme de cas d'utilisation
-   3. Diagramme-classes
-   4. maquettage
+   1. Diagramme-classes
+   2. maquettage
 4. Codage
 5. Test
+    - test manuel  
+    - test unitaire
 6. Déploiement 
+    - Déploiement locale 
+    - Déploiement dons le serveur 
+
 
 ## Projet de validation
 ### Description
-
+Dans le projet LMS, pour ma part, je travaillerai sur l'insertion professionnelle. Les formateurs auront la possibilité d'ajouter leurs CV et informations, et l'administration aura accès aux informations des stagiaires, afin que ces derniers puissent bénéficier de ces informations. afin de communiquer avec eux.
 <!-- TODO : Donnez une description de votre projet de validation en trois phrase -->
 ### Avancement
+1. Besoin: en cours
+2. Analyse: Pas encore
+3. Conception: Pas encore
+4. Codage: Pas encore
+5. Test: Pas encore
+6. Déploiement : Pas encore
 <!-- 1. Donnez Les phases en cours et terminés en ordre -->
 
 ## Projet de formation
-
 ### Description
-<!-- TODO : Donnez une description de de projet CNMH en trois phrase -->
+Le développement d'une application web pour le Centre National Mohammed VI des Handicapés (CNMH) a pour objectif d'accroître le bien-être des personnes en situation de handicap au Maroc. Cette application est structurée en quatre secteurs distincts : social, médical, sportif et éducatif.<!-- TODO : Donnez une description de de projet CNMH en trois phrase -->
 
 ### Avancement
-
+1. Besoin: en cours
+2. Analyse: en cours
+3. Conception: en cours
+4. Codage: en cours
+5. Test: Pas encore
+6. Déploiement : Pas encore
 <!-- Donnez l'état de chaque phase de développement de chaque sprint -->
-#### Sprint 1 : Service Social
-#### Sprint 2 : Service Médical
-#### Sprint 3 : Autorisation
-1. Autorisation : Termine
-2. mantonens : Termine
-#### Sprint 4 : Consultation
+
+#### Sprint 1 : terminer
+#### Sprint 2 : terminer
+#### Sprint 3 avec la maintenance des sprints 1 et 2 : terminer  
+#### Sprint 4 : Consultation : à faire
