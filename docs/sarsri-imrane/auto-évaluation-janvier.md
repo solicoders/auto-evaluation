@@ -6,13 +6,13 @@ order: 1
 
 ## Arbre de compétences
 ### liste des compétences
-C1. Maquetter une application mobile						
-C2. Manipuler une base de données - perfectionnement						
-C3. Développer la partie back-end d’une application web ou web mobile - perfectionnement						
-C4. Collaborer à la gestion d’un projet informatique et à l’organisation de l’environnement de développement - perfectionnement						
-C5. Développer une application mobile native, avec Android et React Native						
-C6. Préparer et exécuter les plans de tests d’une application						
-C7. Préparer et exécuter le déploiement d’une application web et mobile - perfectionnement						
+- C1. Maquetter une application mobile						
+- C2. Manipuler une base de données - perfectionnement						
+- C3. Développer la partie back-end d’une application web ou web mobile - perfectionnement						
+- C4. Collaborer à la gestion d’un projet informatique et à l’organisation de l’environnement de développement - perfectionnement						
+- C5. Développer une application mobile native, avec Android et React Native						
+- C6. Préparer et exécuter les plans de tests d’une application						
+- C7. Préparer et exécuter le déploiement d’une application web et mobile - perfectionnement						
 ### Mon niveau de compétences
 - C1 : Adapter  
 [lab laravel crud basic](https://github.com/imranesarsri/lab-laravel-basic.git)
