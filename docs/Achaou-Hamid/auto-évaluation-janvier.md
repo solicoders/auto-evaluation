@@ -1,3 +1,8 @@
+---
+layout : default
+order : 1
+---
+
 # Auto-évaluation : Achaou Hamid
 
 ## Arbre de compétences
@@ -22,8 +27,6 @@
 
 ## Les phases de réalisation d'un projet 
 
-<!-- Donnez une description de chaque phase dnas un seul phrase -->
-
 1. Besoin
  - Empathie
  - Définir-problème
@@ -38,27 +41,36 @@
 
 4. Codage
     Développement effectif du projet en suivant les spécifications de conception.
-5. Test
- - unit or feature test
- - test browser
-6. Déploiement 
 
+5. Test
+  - test manuel
+  - test unitaire
+
+6. Déploiement 
+    - Déploiement locale 
+    - Déploiement dons le serveur
 
 ## Projet de validation
 ### Description
-<!-- TODO : Donnez une description de votre projet de validation en trois phrase -->
+ - réalisation d'un projet gestion des apprenent en solicode .
+
 ### Avancement
-<!-- 1. Donnez Les phases en cours et terminés en ordre -->
+ - Besoin : *en coure* 
 
 ## Projet de formation
 
 ### Description
-<!-- TODO : Donnez une description de de projet CNMH en trois phrase -->
+La réalisation d'une application web pour `le Centre National Mohammed VI des Handicapés` (`CNMH`) vise à améliorer la qualité de vie des personnes en situation de handicap au Maroc. Cette application se compose de quatre pôles distincts : le pôle social, le pôle médical, le pôle sportif et le pôle éducatif.
+
 
 ### Avancement
 
-<!-- Donnez l'état de chaque phase de développement de chaque sprint -->
-#### Sprint 1 : Service Social
+
+#### Sprint 1 : Service Social 
+ - Terminé
 #### Sprint 2 : Service Médical
+ - En coure 
 #### Sprint 3 : Autorisation
+ - Terminé 
 #### Sprint 4 : Consultation
+ - En coure 
