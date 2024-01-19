@@ -59,7 +59,7 @@ Dans mon projet LMS sur la partie QCM , les formateurs auront la possibilité de
 ## Projet de formation
 
 ### Description
-La création d'une application web pour le Centre National Mohammed VI des Handicapés (CNMH) pour objectif d'améliorer la qualité de vie des personnes en situation de handicap. Cette application est divisée en quatre sections principales : sociale, médicale, sportive et éducative. Chaque section vise à fournir des services et des informations spécifiques pour répondre aux besoins variés des individus en situation de handicap.
+L'application web pour le Centre National Mohammed VI des Handicapés (CNMH), pour but d'améliorer la qualité de vie des personnes en situation de handicap. Organisée en quatre pôles distincts – social, médical, sportif et éducatif –, elle offre des services adaptés à leurs besoins spécifiques.
 
 ### Avancement
 #### Sprint 1 - Service Social : **terminer**
