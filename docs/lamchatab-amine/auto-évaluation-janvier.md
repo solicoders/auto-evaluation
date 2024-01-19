@@ -50,7 +50,7 @@ order: 1
    - Test unitaire de l'application
 6. Déploiement 
    - Lancement officiel du projet pour une utilisation réelle par les utilisateurs.
-  
+
 ## Projet de validation
 ### Description
 
@@ -73,8 +73,8 @@ order: 1
 #### Sprint 1 : Service Social
 Terminé
 #### Sprint 2 : Service Médical
-Terminé
+en cours
 #### Sprint 3 : Autorisation
 Terminé
 #### Sprint 4 : Consultation
-En cours
+à faire
