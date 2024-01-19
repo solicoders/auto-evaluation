@@ -59,7 +59,10 @@ Dans mon projet LMS sur la partie QCM , les formateurs auront la possibilité de
 ## Projet de formation
 
 ### Description
-L'application web pour le Centre National Mohammed VI des Handicapés (CNMH), pour but d'améliorer la qualité de vie des personnes en situation de handicap. Organisée en quatre pôles distincts – social, médical, sportif et éducatif –, elle offre des services adaptés à leurs besoins spécifiques.
+développement de pôle social
+développement de pôle medical
+développement de Consultation
+
 
 ### Avancement
 #### Sprint 1 - Service Social : **terminer**
