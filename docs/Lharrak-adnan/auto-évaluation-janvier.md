@@ -67,6 +67,6 @@ développement de Consultation
 ### Avancement
 #### Sprint 1 - Service Social : **terminer**
 #### Sprint 2 - Service Médical : **terminer**
-#### Sprint 3 - Autorisation : **en cours**  
+#### Sprint 3 - Autorisation : **terminer**  
 #### Sprint 4 - Consultation : **à faire**
 
