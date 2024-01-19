@@ -1,4 +1,3 @@
-
 ---
 layout : chapitre
 order : 1
@@ -51,7 +50,9 @@ order : 1
 ## Projet de validation
 ### Description
 <!-- TODO : Donnez une description de votre projet de validation en trois phrase -->
-Création d'une application pour gérer les autoévaluations des apprennent de centre solicode
+Création d'une application pour gérer les autoévaluations des apprennent de centre solicode. 
+au but de  faciliter le suivi d'avancement des apprennent.
+
 ### Avancement
 <!-- 1. Donnez Les phases en cours et terminés en ordre -->
 1. Besoin: *en cours*
@@ -65,13 +66,12 @@ La réalisation d'une application web pour le Centre National Mohammed VI des Ha
 ### Avancement
 #### Sprint 1 : Service Social 
  
-Terminer
+Terminé
 #### Sprint 2 : Service Médical
  
-Terminer
+ En core
 #### Sprint 3 : Autorisation
  
-Encore
-#### Sprint 4 : Consultation
- 
 à faire
+#### Sprint 4 : Consultation
+ En core
