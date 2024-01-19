@@ -46,8 +46,7 @@ C7. Préparer et exécuter le déploiement d’une application web et mobile - p
 
 ## Projet de validation
 ### Description
-Dans le projet LMS, pour ma part, je travaillerai sur l'insertion professionnelle. Les formateurs auront la possibilité d'ajouter leurs CV et informations, et l'administration aura accès aux informations des stagiaires, afin que ces derniers puissent bénéficier de ces informations. afin de communiquer avec eux.
-
+Dans le projet LMS, pour ma part, je travaillerai sur l'insertion professionnelle. Les formateurs auront la possibilité d'ajouter leurs CV et informations, et l'administration aura accès aux informations des stagiaires, afin de communiquer avec eux.
 ### Avancement
 1. Besoin: en cours
 2. Analyse: Pas encore
