@@ -87,11 +87,11 @@ Le développement du projet de numérisation des documents pour le Centre Nation
 #### Sprint 1 : Service Social 
  - Terminé
 #### Sprint 2 : Service Médical
- - Terminé
+ - en cours
 #### Sprint 3 : Autorisation
  - Terminé 
 #### Sprint 4 : Consultation
- - à faire 
+ - en cours 
 
 
 
