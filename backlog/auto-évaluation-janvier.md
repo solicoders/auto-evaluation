@@ -8,6 +8,8 @@
 ## Livrable 
 
 - docs/nom-prénom/auto-évaluation-janvier.md
+- Insertion de votre lien dans le fichier 
+  - docs/index.md
 
 ## Plan du rapport 
 
