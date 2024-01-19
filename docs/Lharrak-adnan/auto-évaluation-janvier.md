@@ -1,3 +1,7 @@
+---
+layout : chapitre
+order : 1
+---
 # Auto-évaluation : L'harrak Adnan
 
 ## Arbre de compétences
@@ -17,7 +21,7 @@
     - reference : *
 - C3. Adapter
     - reference : [lab-crud-standard](https://github.com/ADNANLH/lab-crud-standard.git)
-- C4. imiter
+- C4. Imiter
     - reference : *
 - C5. Pas encore
 - C6. Adapter
@@ -55,12 +59,13 @@ Dans mon projet LMS sur la partie QCM , les formateurs auront la possibilité de
 ## Projet de formation
 
 ### Description
+La création d'une application web pour le Centre National Mohammed VI des Handicapés (CNMH) pour objectif d'améliorer la qualité de vie des personnes en situation de handicap. Cette application est divisée en quatre sections principales : sociale, médicale, sportive et éducative. Chaque section vise à fournir des services et des informations spécifiques pour répondre aux besoins variés des individus en situation de handicap.
 
 ### Avancement
 #### Sprint 1 : terminer
 #### Sprint 2 : terminer
-#### Sprint 3 avec la maintenance des sprints 1 et 2 : terminer  
-#### Sprint 4 : Consultation : à faire
+#### Sprint 3 : terminer  
+#### Sprint 4 : à faire
 
 <!-- Donnez l'état de chaque phase de développement de chaque sprint -->
 #### Sprint 1 : Service Social : terminer
